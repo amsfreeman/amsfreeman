@@ -1,6 +1,6 @@
-### Hi there my name is Amelia Freeman
+### Hi there my name is Amelia Freeman!
 
-#### Recently graduated from a Software Engineering bootcamp, and excited to continue to grow my coding skills and learn more about the world of software development!
+#### Recently graduated from a Software Engineering bootcamp, and excited to continue to grow my coding skills and learn more about the world of software development.
 
 - 🔭 I’m currently working on some additional ideas for Prost! An Oktoberfest Guide.
 - 🌱 I’m currently learning Python, Flask, and React.
