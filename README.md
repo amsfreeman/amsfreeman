@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there my name is Amelia Freeman
+
+#### Recently graduated from a Software Engineering bootcamp, and excited to continue to grow my coding skills and learn more about the world of software development!
+
+- 🔭 I’m currently working on some additional ideas for Prost! An Oktoberfest Guide.
+- 🌱 I’m currently learning Python, Flask, and React.
+- 💬 Ask me about the bootcamp experience!
+- 📫 How to reach me: ameliakfreeman@gmail.com or on LinkedIn at https://www.linkedin.com/in/amelia-k-freeman/
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I have friends who love Rugby, so I am currently trying to understand it! 
 
 <!--
 **amsfreeman/amsfreeman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
